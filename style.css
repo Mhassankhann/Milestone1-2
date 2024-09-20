@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e7f0ff; /* Light sky blue background */
+    margin: 0;
+    padding: 20px;
+}
+
+.resume-container {
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border: 2px solid skyblue; /* Border color */
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+    color: #333;
+}
+
+h2 {
+    color: skyblue;
+    border-bottom: 2px solid skyblue;
+    padding-bottom: 5px;
+}
+
+section {
+    margin-top: 20px;
+}
+
+p, ul {
+    color: #555;
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
